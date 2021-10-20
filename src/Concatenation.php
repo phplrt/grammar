@@ -11,7 +11,7 @@ declare(strict_types=1);
 
 namespace Phplrt\Grammar;
 
-use Phplrt\Contracts\Lexer\BufferInterface;
+use Phplrt\Contracts\Buffer\BufferInterface;
 
 class Concatenation extends Production
 {
